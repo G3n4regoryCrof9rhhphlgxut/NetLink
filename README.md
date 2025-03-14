@@ -4,3 +4,4 @@ SetupInstructions
 NetworkFeatures
 RequiredDependencies
 CodeSamples
+ConfigurationDetails
