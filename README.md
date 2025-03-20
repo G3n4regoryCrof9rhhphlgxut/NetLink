@@ -7,3 +7,4 @@ CodeSamples
 ConfigurationDetails
 ContributionInstructions
 NetworkDebugging
+LicenseInfo
