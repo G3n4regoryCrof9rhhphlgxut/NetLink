@@ -9,3 +9,4 @@ ContributionInstructions
 NetworkDebugging
 LicenseInfo
 NetworkFAQ
+VersionLog
