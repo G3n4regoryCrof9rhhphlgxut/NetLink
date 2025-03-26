@@ -10,3 +10,4 @@ NetworkDebugging
 LicenseInfo
 NetworkFAQ
 VersionLog
+TestingFramework
